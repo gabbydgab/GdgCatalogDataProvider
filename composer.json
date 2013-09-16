@@ -1,11 +1,9 @@
 {
-    "name":"gabbydgab/GdgCatalogDataProvider",
+    "name":"gabbydgab/catalog-data-povider",
     "description":"Module for importing single/bulk entries for Catalog + Inventory System",
     "type": "library",
     "minimum-stability": "dev",
-    "keywords": [
-        "zf2"
-    ],
+    "keywords": ["zf2","catalog","data importer", "module"],
     "homepage": "http://github.com/gabbydgab/GdgCatalogDataProvider",
     "authors": [
         {
@@ -23,9 +21,6 @@
     "autoload": {
         "psr-0": {
             "GdgCatalogDataProvider": "src/"
-        },
-        "classmap": [
-            "Module.php"
-        ]
+        }
     }
 }
