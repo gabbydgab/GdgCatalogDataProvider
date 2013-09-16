@@ -5,9 +5,7 @@
     "minimum-stability": "dev",
     "keywords": [
         "zf2",
-        "catalog",
-        "import",
-        "module"
+        "import"
     ],
     "homepage": "http://github.com/gabbydgab/GdgCatalogDataProvider",
     "authors": [
