@@ -25,7 +25,7 @@
             "GdgCatalogDataProvider": "src/"
         },
         "classmap": [
-            "./Module.php"
+            "Module.php"
         ]
     }
 }
