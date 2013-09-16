@@ -1,5 +1,5 @@
 {
-    "name":"gabbydgab/catalog-data-povider",
+    "name":"gabbydgab/catalog-data-povider as gabbydgab/GdgCatalogDataProvider",
     "description":"Module for importing single/bulk entries for Catalog + Inventory System",
     "type": "library",
     "minimum-stability": "dev",
