@@ -1,5 +1,5 @@
 {
-    "name":"gabbydgab/catalog-data-provider",
+    "name":"gabbydgab/gdg-catalogdataprovider",
     "description":"Module for importing single/bulk entries for Catalog + Inventory System",
     "type": "library",
     "minimum-stability": "dev",
