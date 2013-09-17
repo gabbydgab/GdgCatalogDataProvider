@@ -13,7 +13,8 @@
         {
             "name": "Gab Amba",
             "email": "gamba@gabbydgab.com",
-            "homepage": ""
+            "homepage": "http://www.gabbydgab.com/",
+            "role": "Lead Developer"
         }
     ],
     "require": {
@@ -21,12 +22,15 @@
         "zendframework/zendframework": "2.*",
         "zf-commons/zfc-user": "0.1.*"
     },
-    "targer-dir": {
-        
-    },
     "autoload": {
         "psr-0": {
-            "GdgCatalogDataProvider": ""
+            "GdgCatalogDataProvider": "src/"
         }
-    }
+    },
+    "version": "0.1.0-dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.0-dev"
+        }
+    },
 }
