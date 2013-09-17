@@ -1,6 +1,7 @@
 {
     "name":"gabbydgab/gdg-catalogdataprovider",
     "description":"Module for importing single/bulk entries for Catalog + Inventory System",
+    "license": "BSD-2-Clause",
     "type": "library",
     "minimum-stability": "dev",
     "keywords": [
@@ -18,12 +19,14 @@
     "require": {
         "php": ">=5.4",
         "zendframework/zendframework": "2.*",
-        "zf-commons/zfc-user": "0.1.*",
-        "bjyoungblood/bjy-authorize": "1.4.*@dev"
+        "zf-commons/zfc-user": "0.1.*"
+    },
+    "targer-dir": {
+        
     },
     "autoload": {
         "psr-0": {
-            "GdgCatalogDataProvider": "src/"
+            "GdgCatalogDataProvider": ""
         }
     }
 }
